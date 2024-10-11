@@ -8,7 +8,7 @@ import 'semantic-ui-less/semantic.less';
 import Ccp from './components/ccp';
 
 //import { autoSignIn } from '@aws-amplify/auth';
-
+// test 
 // Component
 function App({ signOut, user }) {
   const [isConfigured, setIsConfigured] = useState(false);
