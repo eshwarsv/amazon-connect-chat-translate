@@ -11,6 +11,7 @@
       "StackId": "arn:aws:cloudformation:us-east-1:038328242126:stack/amplify-connecttranslateblog-main-703ab/da2d3e80-87c5-11ef-a73f-0e3280fdf21d",
       "AmplifyAppId": "d28mvmbaxf78w6",
       "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-connecttranslateblog-main-703ab-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+      
     },
     "categories": {
       "auth": {
