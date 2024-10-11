@@ -1,0 +1,37 @@
+{
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-connecttranslateblog-main-703ab-authRole",
+      "UnauthRoleArn": "arn:aws:iam::038328242126:role/amplify-connecttranslateblog-main-703ab-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::038328242126:role/amplify-connecttranslateblog-main-703ab-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-connecttranslateblog-main-703ab-deployment",
+      "UnauthRoleName": "amplify-connecttranslateblog-main-703ab-unauthRole",
+      "StackName": "amplify-connecttranslateblog-main-703ab",
+      "StackId": "arn:aws:cloudformation:us-east-1:038328242126:stack/amplify-connecttranslateblog-main-703ab/da2d3e80-87c5-11ef-a73f-0e3280fdf21d",
+      "AmplifyAppId": "d28mvmbaxf78w6",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-connecttranslateblog-main-703ab-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "connecttranslateblog690eb6d1": {}
+      },
+      "function": {
+        "amazonTranslateLambda": {
+          "deploymentBucketName": "amplify-connecttranslateblog-main-703ab-deployment",
+          "s3Key": "amplify-builds/amazonTranslateLambda-715949496d30712f6570-build.zip"
+        },
+        "postInstallScript": {
+          "deploymentBucketName": "amplify-connecttranslateblog-main-703ab-deployment",
+          "s3Key": "amplify-builds/postInstallScript-5a792f6f6c4a4f52596b-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d28mvmbaxf78w6",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
 	"name": "translateblog",
 	"version": "0.1.0",
-	"private": true, 
+	"private": true,
 	"dependencies": {
 		"@aws-amplify/auth": "^6.0.23",
 		"@aws-amplify/core": "6.4.4",
@@ -11,7 +11,6 @@
 		"@babel/core": "7.24.3",
 		"@babel/plugin-syntax-flow": "^7.24.1",
 		"@babel/plugin-transform-react-jsx": "^7.23.4",
-		"@craco/craco": "^7.1.0",
 		"@semantic-ui-react/craco-less": "^3.0.0",
 		"@svgr/webpack": "^8.1.0",
 		"@testing-library/dom": "^9.3.4",

@@ -6,6 +6,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import 'semantic-ui-less/semantic.less';
 import Ccp from './components/ccp';
+
 //import { autoSignIn } from '@aws-amplify/auth';
 
 // Component
